@@ -118,5 +118,5 @@ ActiveDesk Ecosystem
 
 For enterprise setup, integration assistance, or support inquiries:
 
-* **Website**: [activedesk.in](https://www.google.com/search?q=https://activedesk.in)
+* **Website**: [activedesk.in](https://activedesk.in)
 * **Email**: support@activedesk.in
