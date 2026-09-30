@@ -8,19 +8,17 @@ ActiveDesk bridges the trust gap between enterprise management and distributed t
 
 ## 📋 Table of Contents
 
-* [Overview](https://www.google.com/search?q=%23overview)
-* [Key Features](https://www.google.com/search?q=%23key-features)
-* [Real-Time Input Analytics](https://www.google.com/search?q=%23real-time-input-analytics)
-* [Automated Screen & Camera Captures](https://www.google.com/search?q=%23automated-screen--camera-captures)
-* [Leave, Attendance & Payroll Sync](https://www.google.com/search?q=%23leave-attendance--payroll-sync)
-* [Admin Analytics & Reporting](https://www.google.com/search?q=%23admin-analytics--reporting)
-* [Security & Infrastructure](https://www.google.com/search?q=%23security--infrastructure)
-
-
-* [Directory & Feature Matrix](https://www.google.com/search?q=%23directory--feature-matrix)
-* [System Architecture](https://www.google.com/search?q=%23system-architecture)
-* [Getting Started](https://www.google.com/search?q=%23getting-started)
-* [License & Support](https://www.google.com/search?q=%23license--support)
+- [Overview](#-overview)
+- [Key Features](#-key-features)
+  - [Real-Time Input Analytics](#real-time-input-analytics)
+  - [Automated Screen & Camera Captures](#automated-screen--camera-captures)
+  - [Leave, Attendance & Payroll Sync](#leave-attendance--payroll-sync)
+  - [Admin Analytics & Reporting](#admin-analytics--reporting)
+  - [Security & Infrastructure](#security--infrastructure)
+- [Directory & Feature Matrix](#-directory--feature-matrix)
+- [System Architecture](#-system-architecture)
+- [Getting Started](#-getting-started)
+- [Contact & Support](#-contact--support)
 
 ---
 
@@ -33,27 +31,22 @@ ActiveDesk acts as a virtual manager for distributed and work-from-home teams, p
 ## ✨ Key Features
 
 ### Real-Time Input Analytics
-
 * **Keystroke & Mouse Analytics**: Calculates active vs. idle hours minute-by-minute. Measures mouse movements, clicks, and keyboard strokes per minute without keylogging sensitive plain text.
 * **Background System Hooks**: System-level background hooks measure active engagement with minimal CPU and memory usage.
 
 ### Automated Screen & Camera Captures
-
 * **Multi-Monitor Screenshots**: Generates 10-minute activity sessions and captures 3 randomized screen grabs across all attached displays, providing full contextual proof of work.
 * **Webcam Presence Verification**: Configurable webcam access periodically takes snapshots to verify that the assigned employee is physically present at the workstation.
 
 ### Leave, Attendance & Payroll Sync
-
 * **Leave Management & Approval**: In-app leave module allows employees to submit requests directly. Managers receive email alerts with one-click approve/reject actions.
 * **Payroll Automation**: Maps active hours, overtime, and approved leaves to calculate automated monthly payroll figures, removing manual calculation errors.
 
 ### Admin Analytics & Reporting
-
 * **Visual Dashboard**: Comprehensive visual timeline charts, screenshot galleries, and team comparison metrics available to managers and enterprise admins.
 * **Team Comparison**: Compare activity averages, active hours, and productivity levels across departments.
 
 ### Security & Infrastructure
-
 * **Privacy First**: Designed to track engagement without capturing passwords, confidential text inputs, or personal browsing data.
 * **High-Deliverability SMTP**: Uses local loopback SMTP (`127.0.0.1`) and DKIM domain alignment (`activedesk.in`) to ensure instant manager email alerts and zero delivery delays.
 
@@ -62,20 +55,19 @@ ActiveDesk acts as a virtual manager for distributed and work-from-home teams, p
 ## 📑 Directory & Feature Matrix
 
 | Category | Module / Feature | Description |
-| --- | --- | --- |
+|---|---|---|
 | **Input Analytics** | Keystroke & Mouse Counter | Tracks clicks, movements, and keypresses per minute without plain-text logging. |
-|  | Active vs. Idle Tracking | Differentiates active work from idle periods minute-by-minute. |
+| | Active vs. Idle Tracking | Differentiates active work from idle periods minute-by-minute. |
 | **Visual Proof** | Multi-Monitor Screenshots | Captures 3 randomized screenshots per 10-min session across all monitors. |
-|  | Webcam Verification | Snapshot checks to confirm employee presence at the workstation. |
+| | Webcam Verification | Snapshot checks to confirm employee presence at the workstation. |
 | **HR & Payroll** | In-App Leave Requests | Employees apply for leave directly within the desktop application. |
-|  | Payroll Sync | Converts logged active hours and leaves into monthly salary figures. |
+| | Payroll Sync | Converts logged active hours and leaves into monthly salary figures. |
 | **Reporting** | Visual Timeline & Gallery | Interactive screenshot galleries and team comparison dashboards for admins. |
 
 ---
 
 ## 🛠️ System Architecture
 
-```text
 ActiveDesk Ecosystem
 ├── Desktop Application (Client)
 │   ├── Input Activity Hooks (Keystrokes/Mouse)
@@ -93,9 +85,6 @@ ActiveDesk Ecosystem
     ├── Manager Email Approval Routing
     └── Payroll & Attendance Log Exporter
 
-```
-
----
 
 ## ⚙️ Getting Started
 
@@ -118,5 +107,9 @@ ActiveDesk Ecosystem
 
 For enterprise setup, integration assistance, or support inquiries:
 
-* **Website**: [activedesk.in](https://activedesk.in)
-* **Email**: support@activedesk.in
+* **Website**: [https://activedesk.in](https://activedesk.in)
+* **Email**: [support@activedesk.in](mailto:support@activedesk.in)
+
+```
+
+```
